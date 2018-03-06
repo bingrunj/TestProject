@@ -335,7 +335,7 @@ GameObject:
   - component: {fileID: 214058008}
   - component: {fileID: 214058007}
   m_Layer: 5
-  m_Name: UI_Btn_atLeftTop_B
+  m_Name: UI_Btn_atLeftTop_Off
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1522,7 +1522,7 @@ GameObject:
   - component: {fileID: 1316225944}
   - component: {fileID: 1316225943}
   m_Layer: 5
-  m_Name: UI_Btn_atLeftTop_A
+  m_Name: UI_Btn_atLeftTop_On
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
